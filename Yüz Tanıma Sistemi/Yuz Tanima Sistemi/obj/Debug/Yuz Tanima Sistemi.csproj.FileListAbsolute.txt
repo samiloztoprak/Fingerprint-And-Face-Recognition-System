@@ -1,0 +1,230 @@
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe.config
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\ZedGraph.dll
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.xml
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.xml
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.xml
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.anaForm.resources
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.menuForm.resources
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.Properties.Resources.resources
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.veriTabanındanCek.resources
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yeniKisiForm.resources
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.GenerateResource.Cache
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.exe
+C:\Users\2Adam-rabia\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe.config
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.exe
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.dll
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.dll
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.dll
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\ZedGraph.dll
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.xml
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.xml
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.xml
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.anaForm.resources
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.menuForm.resources
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.Properties.Resources.resources
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.veriTabanındanCek.resources
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yeniKisiForm.resources
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yuz_tanımaForm.resources
+C:\Users\pc\Desktop\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.GenerateResource.Cache
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe.config
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.exe
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.pdb
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csprojResolveAssemblyReference.cache
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.anaForm.resources
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.menuForm.resources
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.Properties.Resources.resources
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.veriTabanındanCek.resources
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yeniKisiForm.resources
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yuz_tanımaForm.resources
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.GenerateResource.Cache
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.pdb
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.dll
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.dll
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.dll
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\ZedGraph.dll
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.xml
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.xml
+H:\Tübitak Projesi\2-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.xml
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe.config
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.exe
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.anaForm.resources
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.menuForm.resources
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.Properties.Resources.resources
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.veriTabanındanCek.resources
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yeniKisiForm.resources
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yuz_tanımaForm.resources
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.dll
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.dll
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.dll
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\ZedGraph.dll
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.xml
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.xml
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.xml
+C:\Users\pc\Desktop\Tübitak Projesi\3-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.sifreKontrol.resources
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe.config
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.exe
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.pdb
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.pdb
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.dll
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.dll
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.dll
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\ZedGraph.dll
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.xml
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.xml
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.xml
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csprojResolveAssemblyReference.cache
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.anaForm.resources
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.menuForm.resources
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.Properties.Resources.resources
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.sifreKontrol.resources
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.veriTabanındanCek.resources
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yeniKisiForm.resources
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yuz_tanımaForm.resources
+H:\Tübitak Projesi\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe.config
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.exe
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.dll
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.dll
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.dll
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.xml
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.xml
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.xml
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.anaForm.resources
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.menuForm.resources
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.Properties.Resources.resources
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.sifreKontrol.resources
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.veriTabanındanCek.resources
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yeniKisiForm.resources
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yuz_tanımaForm.resources
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\4-Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe.config
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.exe
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.xml
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.xml
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.xml
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.anaForm.resources
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.menuForm.resources
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.Properties.Resources.resources
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.sifreKontrol.resources
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.veriTabanındanCek.resources
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yeniKisiForm.resources
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yuz_tanımaForm.resources
+C:\Users\admin\Desktop\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.GenerateResource.Cache
+G:\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe.config
+G:\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.exe
+G:\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe.config
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.exe
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.xml
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.xml
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.xml
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.anaForm.resources
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.menuForm.resources
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.Properties.Resources.resources
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.sifreKontrol.resources
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.veriTabanındanCek.resources
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yeniKisiForm.resources
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yuz_tanımaForm.resources
+C:\Users\admin\Desktop\Tübitak Yüz Tanımı\Son Aşama\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.GenerateResource.Cache
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe.config
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.exe
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.pdb
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe.config
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.exe
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.pdb
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.pdb
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.xml
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.xml
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.xml
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csprojResolveAssemblyReference.cache
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.anaForm.resources
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.menuForm.resources
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.Properties.Resources.resources
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.sifreKontrol.resources
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.veriTabanındanCek.resources
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yeniKisiForm.resources
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yuz_tanımaForm.resources
+G:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.GenerateResource.Cache
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.pdb
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.dll
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.dll
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.dll
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.xml
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.xml
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.xml
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csprojResolveAssemblyReference.cache
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.anaForm.resources
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.menuForm.resources
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.Properties.Resources.resources
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.sifreKontrol.resources
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.veriTabanındanCek.resources
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yeniKisiForm.resources
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yuz_tanımaForm.resources
+H:\cd yüz tanıma\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.GenerateResource.Cache
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe.config
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.xml
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.xml
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.xml
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csprojAssemblyReference.cache
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.anaForm.resources
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.menuForm.resources
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.Properties.Resources.resources
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.sifreKontrol.resources
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.veriTabanındanCek.resources
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yeniKisiForm.resources
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yuz_tanımaForm.resources
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.CopyComplete
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.exe
+C:\Users\90541\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe.config
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.exe
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.xml
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.CV.UI.xml
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\Debug\Emgu.Util.xml
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csprojAssemblyReference.cache
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.anaForm.resources
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.menuForm.resources
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.Properties.Resources.resources
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.sifreKontrol.resources
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.veriTabanındanCek.resources
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yeniKisiForm.resources
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz_Tanima_Sistemi.yuz_tanımaForm.resources
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.GenerateResource.cache
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.csproj.CopyComplete
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.exe
+C:\Users\90541\Desktop\İncele Sil\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\Debug\Yuz Tanima Sistemi.pdb

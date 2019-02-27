@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\x86\Debug\Yuz Tanima Sistemi.exe.config
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\x86\Debug\Yuz Tanima Sistemi.exe
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\x86\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\x86\Debug\Emgu.CV.dll
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\x86\Debug\Emgu.CV.UI.dll
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\x86\Debug\Emgu.Util.dll
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\x86\Debug\ZedGraph.dll
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\x86\Debug\Emgu.CV.xml
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\x86\Debug\Emgu.CV.UI.xml
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\bin\x86\Debug\Emgu.Util.xml
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\x86\Debug\Yuz_Tanima_Sistemi.Form1.resources
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\x86\Debug\Yuz_Tanima_Sistemi.Properties.Resources.resources
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\x86\Debug\Yuz Tanima Sistemi.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\x86\Debug\Yuz Tanima Sistemi.exe
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\x86\Debug\Yuz Tanima Sistemi.pdb
+C:\Users\pc\Desktop\Yuz Tanima Sistemi\Yuz Tanima Sistemi\obj\x86\Debug\Yuz Tanima Sistemi.csprojResolveAssemblyReference.cache

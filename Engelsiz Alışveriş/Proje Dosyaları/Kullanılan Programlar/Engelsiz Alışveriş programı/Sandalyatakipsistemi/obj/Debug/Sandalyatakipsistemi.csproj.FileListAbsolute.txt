@@ -1,0 +1,116 @@
+C:\Users\admin\Desktop\E-biko 2013 yeni\Proje Dosyaları\Kullanılan Programlar\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe.config
+C:\Users\admin\Desktop\E-biko 2013 yeni\Proje Dosyaları\Kullanılan Programlar\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe
+C:\Users\admin\Desktop\E-biko 2013 yeni\Proje Dosyaları\Kullanılan Programlar\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.pdb
+C:\Users\admin\Desktop\E-biko 2013 yeni\Proje Dosyaları\Kullanılan Programlar\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\E-biko 2013 yeni\Proje Dosyaları\Kullanılan Programlar\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\E-biko 2013 yeni\Proje Dosyaları\Kullanılan Programlar\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\E-biko 2013 yeni\Proje Dosyaları\Kullanılan Programlar\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi_MarkupCompile.cache
+C:\Users\admin\Desktop\E-biko 2013 yeni\Proje Dosyaları\Kullanılan Programlar\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.g.resources
+C:\Users\admin\Desktop\E-biko 2013 yeni\Proje Dosyaları\Kullanılan Programlar\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.Properties.Resources.resources
+C:\Users\admin\Desktop\E-biko 2013 yeni\Proje Dosyaları\Kullanılan Programlar\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\E-biko 2013 yeni\Proje Dosyaları\Kullanılan Programlar\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.exe
+C:\Users\admin\Desktop\E-biko 2013 yeni\Proje Dosyaları\Kullanılan Programlar\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.pdb
+C:\Users\admin\Desktop\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe.config
+C:\Users\admin\Desktop\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.exe
+C:\Users\admin\Desktop\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.pdb
+C:\Users\admin\Desktop\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi_MarkupCompile.cache
+C:\Users\admin\Desktop\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.g.resources
+C:\Users\admin\Desktop\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.Properties.Resources.resources
+C:\Users\admin\Desktop\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe
+C:\Users\admin\Desktop\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.pdb
+D:\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe.config
+D:\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.exe
+D:\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.pdb
+D:\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe
+D:\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.pdb
+D:\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csprojResolveAssemblyReference.cache
+D:\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\MainWindow.baml
+D:\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\MainWindow.g.cs
+D:\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\App.g.cs
+D:\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi_MarkupCompile.cache
+D:\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.g.resources
+D:\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.Properties.Resources.resources
+D:\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csproj.GenerateResource.Cache
+D:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe.config
+D:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.exe
+D:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.pdb
+D:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe
+D:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.pdb
+D:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csprojResolveAssemblyReference.cache
+D:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\MainWindow.baml
+D:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\MainWindow.g.cs
+D:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\App.g.cs
+D:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi_MarkupCompile.cache
+D:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.g.resources
+D:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.Properties.Resources.resources
+D:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe.config
+C:\Users\admin\Desktop\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.exe
+C:\Users\admin\Desktop\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.pdb
+C:\Users\admin\Desktop\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi_MarkupCompile.cache
+C:\Users\admin\Desktop\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.g.resources
+C:\Users\admin\Desktop\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.Properties.Resources.resources
+C:\Users\admin\Desktop\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe
+C:\Users\admin\Desktop\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.pdb
+G:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe.config
+G:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.exe
+G:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.pdb
+G:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe
+G:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.pdb
+G:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csprojResolveAssemblyReference.cache
+G:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\MainWindow.baml
+G:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\MainWindow.g.cs
+G:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\App.g.cs
+G:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi_MarkupCompile.cache
+G:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.g.resources
+G:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.Properties.Resources.resources
+G:\bu son halidir\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csproj.GenerateResource.Cache
+D:\program\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe.config
+D:\program\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.exe
+D:\program\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.pdb
+D:\program\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe
+D:\program\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.pdb
+D:\program\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csprojResolveAssemblyReference.cache
+D:\program\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\MainWindow.baml
+D:\program\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\MainWindow.g.cs
+D:\program\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\App.g.cs
+D:\program\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi_MarkupCompile.cache
+D:\program\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.g.resources
+D:\program\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.Properties.Resources.resources
+D:\program\Sandalye Takip Sistemi Programı\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csproj.GenerateResource.Cache
+D:\program\Sandalye Takip Sistemi Programı - Kopya\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe.config
+D:\program\Sandalye Takip Sistemi Programı - Kopya\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.exe
+D:\program\Sandalye Takip Sistemi Programı - Kopya\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.pdb
+D:\program\Sandalye Takip Sistemi Programı - Kopya\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe
+D:\program\Sandalye Takip Sistemi Programı - Kopya\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.pdb
+D:\program\Sandalye Takip Sistemi Programı - Kopya\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csprojResolveAssemblyReference.cache
+D:\program\Sandalye Takip Sistemi Programı - Kopya\Sandalyatakipsistemi\obj\Debug\MainWindow.baml
+D:\program\Sandalye Takip Sistemi Programı - Kopya\Sandalyatakipsistemi\obj\Debug\MainWindow.g.cs
+D:\program\Sandalye Takip Sistemi Programı - Kopya\Sandalyatakipsistemi\obj\Debug\App.g.cs
+D:\program\Sandalye Takip Sistemi Programı - Kopya\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi_MarkupCompile.cache
+D:\program\Sandalye Takip Sistemi Programı - Kopya\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.g.resources
+D:\program\Sandalye Takip Sistemi Programı - Kopya\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.Properties.Resources.resources
+D:\program\Sandalye Takip Sistemi Programı - Kopya\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csproj.GenerateResource.Cache
+D:\program\Sandalye Takip Sistemi Programı en son  çalışan hali\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe.config
+D:\program\Sandalye Takip Sistemi Programı en son  çalışan hali\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.exe
+D:\program\Sandalye Takip Sistemi Programı en son  çalışan hali\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.pdb
+D:\program\Sandalye Takip Sistemi Programı en son  çalışan hali\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.exe
+D:\program\Sandalye Takip Sistemi Programı en son  çalışan hali\Sandalyatakipsistemi\bin\Debug\Sandalyatakipsistemi.pdb
+D:\program\Sandalye Takip Sistemi Programı en son  çalışan hali\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csprojResolveAssemblyReference.cache
+D:\program\Sandalye Takip Sistemi Programı en son  çalışan hali\Sandalyatakipsistemi\obj\Debug\MainWindow.baml
+D:\program\Sandalye Takip Sistemi Programı en son  çalışan hali\Sandalyatakipsistemi\obj\Debug\MainWindow.g.cs
+D:\program\Sandalye Takip Sistemi Programı en son  çalışan hali\Sandalyatakipsistemi\obj\Debug\App.g.cs
+D:\program\Sandalye Takip Sistemi Programı en son  çalışan hali\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi_MarkupCompile.cache
+D:\program\Sandalye Takip Sistemi Programı en son  çalışan hali\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.g.resources
+D:\program\Sandalye Takip Sistemi Programı en son  çalışan hali\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.Properties.Resources.resources
+D:\program\Sandalye Takip Sistemi Programı en son  çalışan hali\Sandalyatakipsistemi\obj\Debug\Sandalyatakipsistemi.csproj.GenerateResource.Cache
