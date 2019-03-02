@@ -1,4 +1,4 @@
-# Görüntü İşleme Teknikleri Kullanılarak Yemekhane Otomasyonunun Gerçekleştirilmesi
+# Yüz Tanıma Kullanılarak Yemekhane Otomasyonunun Gerçekleştirilmesi
 
 Projenin Amacı
 	Yemekhane turnikesinin önüne takılan kamera yardımı ile alınan kullanıcıların görüntülerinden görüntü işleme tekniği ile kimlik tespiti yapılıp yemekhane otomasyonunun yapılması amaçlanmaktadır.
